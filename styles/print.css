@@ -1,6 +1,6 @@
 /* CSS for print */
 @import url(https://fonts.googleapis.com/css?family=Amiri);
 
-* {
+body {
     font:Amiri;
 }
