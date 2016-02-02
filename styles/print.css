@@ -1,5 +1,11 @@
 /* CSS for print */
-@import url(https://fonts.googleapis.com/css?family=Amiri);
+
+@font-face {
+  font-family: 'Amiri';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/amiri/v7/k2MEYNRoSfd5tdYW9SpWiA.woff2) format('woff2');
+}
 
 body {
     font:Amiri;
