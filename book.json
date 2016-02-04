@@ -1,4 +1,8 @@
 {
     "language": "ar",
-    "direction": "rtl"
+    "direction": "rtl",
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+    }
 }
