@@ -10,3 +10,7 @@
 .book.font-family-1 {
     font-family: Amiri, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+.book .book-header, .book .book-summary {
+    font-family: Amiri, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
