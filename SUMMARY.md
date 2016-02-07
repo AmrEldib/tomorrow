@@ -13,7 +13,7 @@
 * [إصلاح الشرطة](police.md)
 * [التشريع](law_legislation.md)
    * [قائمة المشاكل](law_problemslist.md)
-   * المجتمعات الافتراضية كساحات للنقاش
+   * [المجتمعات الافتراضية كساحات للنقاش](law_internetforums.md)
 * [الحكم المحلي](localgovernment.md)
 * [الأعمال الخيرية والمجتمع المدني](charityandcivilsociety.md)
 * [الإقتصاد](economy.md)
