@@ -20,4 +20,5 @@
 * [الأعمال الخيرية والمجتمع المدني](charityandcivilsociety.md)
 * [الإقتصاد](economy.md)
    * [توزيع الثروة في ظل الميكنة الكاملة للاقتصاد والإنتاج](economy_wealthdistribution.md)
+* بكره - غدا في مصر
 
