@@ -15,6 +15,7 @@
    * [قائمة المشاكل](law_problemslist.md)
    * [المجتمعات الافتراضية كساحات للنقاش](law_internetforums.md)
    * [الهدف من تغيير شكل منظومة التشريع](law_goalofchange.md)
+   * مشاكل النظام الديموقراطي
 * [الحكم المحلي](localgovernment.md)
 * [الأعمال الخيرية والمجتمع المدني](charityandcivilsociety.md)
 * [الإقتصاد](economy.md)
