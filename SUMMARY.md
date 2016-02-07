@@ -12,7 +12,7 @@
 * [الصحة](healthcare.md)
 * [إصلاح الشرطة](police.md)
 * [التشريع](legislation.md)
-   * قائمة المشاكل
+   * [قائمة المشاكل](law_problemslist.md)
 * [الحكم المحلي](localgovernment.md)
 * [الأعمال الخيرية والمجتمع المدني](charityandcivilsociety.md)
 * [الإقتصاد](economy.md)
