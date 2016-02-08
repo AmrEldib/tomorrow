@@ -10,7 +10,6 @@
    * [الخدمات الحكومية](gov_govservices.md)
 * [الطاقة](energy.md)
 * [الصحة](healthcare.md)
-* [إصلاح الشرطة](police.md)
 * [التشريع](law_legislation.md)
    * [قائمة المشاكل](law_problemslist.md)
    * [المجتمعات الافتراضية كساحات للنقاش](law_internetforums.md)
@@ -21,4 +20,6 @@
 * [الإقتصاد](economy.md)
    * [توزيع الثروة في ظل الميكنة الكاملة للاقتصاد والإنتاج](economy_wealthdistribution.md)
 * [بكره - غدا في مصر](tomorrowinegypt.md)
+ * [إصلاح الشرطة](police.md)
+ * [إصلاح الخطاب الديني](religion.md)
 
