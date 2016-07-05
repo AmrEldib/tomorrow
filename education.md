@@ -56,3 +56,5 @@ Cultural
  * “Every generation has to discover democracy”
 * Personal
  * Finding your element.
+
+[No grades, no timetable: Berlin school turns teaching upside down](https://www.theguardian.com/world/2016/jul/01/no-grades-no-timetable-berlin-school-turns-teaching-upside-down) 
