@@ -1,1 +1,12 @@
 /* CSS for epub */
+
+@font-face {
+  font-family: 'Amiri';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Amiri'), local('Amiri-Regular'), url(https://fonts.gstatic.com/s/amiri/v7/k2MEYNRoSfd5tdYW9SpWiA.woff2) format('woff2');
+}
+
+.book .book-header, .book .book-body {
+    font-family: Amiri, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
